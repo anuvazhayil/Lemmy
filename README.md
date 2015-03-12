@@ -2,7 +2,7 @@
 
 ## What is Lemmy
 
-Lemmy (tribute the great band Motörhead) is a web file manager based on Ruby On Rails. His goals are :
+Lemmy (tribute to the great band Motörhead) is a web file manager based on Ruby On Rails. His goals are :
 
 - Being Tag based, it means by files won't be managed with an hierarchical filesystem but will be handle with tags, and only tags.
 - It will be a "ready to print" system. Send your text to Lemmy, and with git and Latex, he will provide you a nice document, ready to print.
