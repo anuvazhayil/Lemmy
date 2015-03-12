@@ -1,5 +1,7 @@
 # Lemmy
 
+[![Join the chat at https://gitter.im/obatard/Lemmy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/obatard/Lemmy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## What is Lemmy
 
 Lemmy (tribute to the great band Motörhead) is a web file manager based on Ruby On Rails. His goals are :
