@@ -7,6 +7,6 @@ rvm:
   - 2.1.0
   - 2.2.0
 before_script:
-  - rake db:migrate
+  - bundle exec rake db:migrate
 script:
-  - rake test
+  - bundle exec rake test
