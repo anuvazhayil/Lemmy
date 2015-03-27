@@ -20,7 +20,7 @@ Lemmy (tribute to the great band Motörhead) is a web file manager based on Ruby
 
 ## Environnement
 
-The idea of Lemmy is to be plateform independant but our advice is Debian and browsers like firefox and chromium. It will NOT be designed for internet explorer or any product from Micro$oft.
+The idea of Lemmy is to be plateform independant but our advice is Debian and browsers like firefox and chromium. It will NOT be designed for internet explorer or any product from Microsoft.
 
 ## Contributing
 
