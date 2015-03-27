@@ -24,11 +24,11 @@ The idea of Lemmy is to be plateform independant but our advice is Debian and br
 
 ## Contributing
 
-There is an [redmine instance](redmine.hammicus.org) available. Feel free to register and report any bugs you find.
+There is an [redmine instance](https://redmine.hammicus.org) available. Feel free to register and report any bugs you find.
 
 Lemmy is a learning project. SO if you want to learn Web development with Ruby on Rails, feel free to contribute or asking help on the gitter room attached to the project. Contributing is easy :
 
-* Register at [Redmine](redmine.hammicus.org)
+* Register at [Redmine](https://redmine.hammicus.org)
 * Fork the project
 * Throw a pull request
 * Have a beer during the process of merging :)
