@@ -28,9 +28,15 @@ There is an [redmine instance](https://redmine.hammicus.org) available. Feel fre
 
 Lemmy is a learning project. SO if you want to learn Web development with Ruby on Rails, feel free to contribute or asking help on the gitter room attached to the project. Contributing is easy :
 
+### Short story
+
 * Register at [Redmine](https://redmine.hammicus.org)
 * Fork the project
 * Throw a pull request
 * Have a beer during the process of merging :)
 * Be proud of you achievement
 * Update the issue on redmine
+
+### Long story
+
+Read [Contribution Guide](https://redmine.hammicus.org/projects/lemmy/wiki/Contribution_Guide) on the redmine.
