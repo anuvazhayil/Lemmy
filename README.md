@@ -1,6 +1,7 @@
 # Lemmy
 
 [![Join the chat at https://gitter.im/obatard/Lemmy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/obatard/Lemmy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/obatard/Lemmy.svg)](https://travis-ci.org/obatard/Lemmy)
 
 ## What is Lemmy
 

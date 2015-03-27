@@ -1,0 +1,12 @@
+language: ruby
+env:
+  global:
+    - RAILS_ENV=test
+rvm:
+  - 2.0.0
+  - 2.1.0
+  - 2.2.0
+before_script:
+  - bundle exec rake db:migrate
+script:
+  - bundle exec rake test
